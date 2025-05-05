@@ -1,0 +1,25 @@
+.logo{
+    width: 120px;
+}
+.logo-text{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.search-input{
+    border:none;
+    border-radius: 5px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    margin-right: 10px;
+}
+
+.icon{
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.icon:hover{
+    cursor: pointer;
+}
