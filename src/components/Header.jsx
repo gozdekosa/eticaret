@@ -36,7 +36,7 @@ function Header() {
     return (
         <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexDirection:'row'}} className='header'>
             <div className='flex-row' onClick={()=>navigate('/')}>
-                <img className='logo' src='./eticaret/src/images/logo.png' />
+                <img className='logo' src='/eticaret/logo.png' />
                 <p className='logo-text'>GÖZDE A.Ş.</p>
             </div>
 
